@@ -1,5 +1,4 @@
 node_modules
-.env
 coverage
 coverage.json
 typechain
@@ -10,3 +9,7 @@ cache
 cache-zk
 artifacts
 artifacts-zk
+
+# Private files
+.env
+mnemonic.txt
